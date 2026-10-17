@@ -45,12 +45,27 @@ Projet de contrôle embarqué pour le suivi de ligne : régulation PID, boucle d
 
 `ESP32` · `C/C++` · `PlatformIO` · `I²C` · `MQTT` · `TLS` · `DHT11` · `MAX30102` · `MPU6050` · `Kotlin` · `Jetpack Compose` · `ASP.NET Core` · `Docker` · `MongoDB`
 
-## Activité
+## Approche d’ingénierie
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KAROUIFARES&bg_color=0d1117&color=38bdf8&line=22c55e&point=f8fafc&area=true&hide_border=true" alt="Graphique d’activité GitHub" />
-</p>
+```text
+Capteurs → Microcontrôleur → MQTT/TLS → API & stockage → Supervision mobile
+```
+
+Je privilégie une architecture lisible, des interfaces découplées et une documentation permettant de reproduire le projet, du prototype matériel jusqu’au déploiement applicatif.
+
+## Contribution animation
+
+<!-- Cette animation est générée automatiquement par le workflow .github/workflows/generate-snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KAROUIFARES/KAROUIFARES/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KAROUIFARES/KAROUIFARES/output/github-snake.svg" />
+  <img alt="Animation des contributions GitHub" src="https://raw.githubusercontent.com/KAROUIFARES/KAROUIFARES/output/github-snake-dark.svg" />
+</picture>
 
 ## Me contacter
 
-Ajoutez ici votre lien LinkedIn, votre site portfolio ou votre adresse e-mail professionnelle.
+<p align="center">
+  <a href="https://karouimedfares.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visiter%20le%20site-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/karoui-mohamed-fares-936b2b254/"><img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Fares%20Karoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:karouifares1@gmail.com"><img src="https://img.shields.io/badge/E--mail-Me%20contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+</p>
