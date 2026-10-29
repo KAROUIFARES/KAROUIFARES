@@ -57,7 +57,17 @@ Projets axés sur l'ingénierie des données et l'IA de pointe : pipelines de do
 Capteurs / Edge (STM32/ESP32) → IoT (MQTT/Modbus) → Ingestion ETL/ELT → Traitement Big Data (Spark/Hadoop) → Data Warehouse (SQL/NoSQL) → IA & Dashboards BI
 ```
 ## Contribution animation
+<!-- Cette animation est générée automatiquement par le workflow .github/workflows/generate-snake.yml -->
 
+<picture>
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KAROUIFARES/KAROUIFARES/output/github-snake-dark.svg" />
+
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KAROUIFARES/KAROUIFARES/output/github-snake.svg" />
+
+  <img alt="Animation des contributions GitHub" src="https://raw.githubusercontent.com/KAROUIFARES/KAROUIFARES/output/github-snake-dark.svg" />
+
+</picture>
 
 
 <!-- Cette animation est générée automatiquement par le workflow .github/workflows/generate-snake.yml -->
