@@ -55,7 +55,7 @@ Projets axés sur l'ingénierie des données et l'IA de pointe : pipelines de do
 
 ```text
 Capteurs / Edge (STM32/ESP32) → IoT (MQTT/Modbus) → Ingestion ETL/ELT → Traitement Big Data (Spark/Hadoop) → Data Warehouse (SQL/NoSQL) → IA & Dashboards BI
-
+```
 ## Contribution animation
 
 <picture>
