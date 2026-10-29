@@ -58,8 +58,33 @@ Capteurs / Edge (STM32/ESP32) → IoT (MQTT/Modbus) → Ingestion ETL/ELT → Tr
 ```
 ## Contribution animation
 
+
+
+<!-- Cette animation est générée automatiquement par le workflow .github/workflows/generate-snake.yml -->
+
 <picture>
+
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KAROUIFARES/KAROUIFARES/output/github-snake-dark.svg" />
+
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KAROUIFARES/KAROUIFARES/output/github-snake.svg" />
+
   <img alt="Animation des contributions GitHub" src="https://raw.githubusercontent.com/KAROUIFARES/KAROUIFARES/output/github-snake-dark.svg" />
+
 </picture>
+
+
+
+## Me contacter
+
+
+
+<p align="center">
+
+  <a href="https://karouimedfares.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visiter%20le%20site-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+
+  <a href="https://www.linkedin.com/in/karoui-mohamed-fares-936b2b254/"><img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Fares%20Karoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+  <a href="mailto:karouifares1@gmail.com"><img src="https://img.shields.io/badge/E--mail-Me%20contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+
+</p>
+
